@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=flat&logo=vite)](https://vitejs.dev/)
 
-[Live Demo](#) • [Download Resume](public/Akash_RESUME_PM_26.pdf)
+[Live Demo](https://www.pattanayak.qzz.io/) • [Download Resume](public/Akash_RESUME_PM_26.pdf)
 
 </div>
 
