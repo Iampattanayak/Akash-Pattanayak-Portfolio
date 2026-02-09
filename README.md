@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio Preview](src/assets/weblogo.png)
+![Portfolio Preview](src/assets/hero.png)
 
 **A modern, responsive portfolio website showcasing my journey as an aspiring Product Manager and Engineering student.**
 
